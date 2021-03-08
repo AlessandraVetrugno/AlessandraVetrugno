@@ -6,7 +6,7 @@
  - 💻 In the past two years I have learned to program in C/C++ and Java.
  - ✅ I am friendly and I’m very hard-working. I always do my best.
  - 📸 my biggest passion is photography.
-     ✨ - If you want to take a look: [instagram profile Ales Vet](https://www.instagram.com/alesvet_photos/)
+   - ✨If you want to take a look: [instagram profile Ales Vet](https://www.instagram.com/alesvet_photos/)
  - ✈️🌎 I love travelling, discovering new places and cultures. 
  - 🗣️ I currently speak English and Spanish, but in the future I would like to learn German and French too.
  
