@@ -13,4 +13,5 @@
  ## contacts:
   - 📧 email: alessandra_vetrugno@libero.it
   - ➝  [Personal Instagram](https://www.instagram.com/alessandravetrugno_/)
+  - ➝  [Linkedin](https://www.linkedin.com/in/alessandra-vetrugno/)
 
